@@ -1,6 +1,6 @@
-
+<div align=center>
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&vCenter=true&lines=Heyy%2C+I+am+Christoph!!+%F0%9F%91%8B;CSDC+student+in+Vienna!!;I+learn+JAVA,+SOLIDITY+and+HTML!!!)](https://git.io/typing-svg)
-
+</div>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=thejaswin123&label=Profile%20views&color=0e75b6&style=flat" alt="Thejaswin S" /> </p> -->
 <hr>
 <table align="center">
