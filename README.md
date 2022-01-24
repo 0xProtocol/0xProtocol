@@ -11,8 +11,7 @@
 <br>
 <br>
 <br>
-<br>
-<img align="left" alt="chrop01's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrop01&layout=compact" class="center"/>
+<img align="left" alt="chrop01's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrop01&layout=compact&theme=tokyonight&hide_border=true" class="center"/>
 <br>
 <br>
 <br>
