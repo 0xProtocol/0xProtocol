@@ -1,4 +1,6 @@
 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&vCenter=true&lines=Heyy%2C+I+am+Christoph!!+%F0%9F%91%8B;CSDC+student+in+Vienna!!;I+learn+JAVA,+SOLIDITY+and+HTML!!!)](https://git.io/typing-svg)
+
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=thejaswin123&label=Profile%20views&color=0e75b6&style=flat" alt="Thejaswin S" /> </p> -->
 <hr>
 <table align="center">
@@ -9,7 +11,7 @@
 </table>
 <hr>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrop01&row=1" alt="Thejaswin S" /></a> </p>
-<p align="center"><a href="https://at.linkedin.com/in/christoph-oprawill-16328219/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></p>
+<p align="center"><a href="https://at.linkedin.com/in/christoph-oprawill-16328219b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></p>
 
 # Stats
 
