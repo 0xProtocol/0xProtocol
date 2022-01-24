@@ -1,8 +1,5 @@
-<table align="center"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&vCenter=true&lines=Heyy%2C+I+am+Christoph!!+%F0%9F%91%8B;CSDC+student+in+Vienna!!;I+learn+JAVA,+SOLIDITY+and+HTML!!!)](https://git.io/typing-svg)
-
-</table>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=thejaswin123&label=Profile%20views&color=0e75b6&style=flat" alt="Thejaswin S" /> </p> -->
 <hr>
 <table align="center">
@@ -18,7 +15,7 @@
 # Stats
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=chrop01&show_icons=true&theme=highcontrast&&count_private=true&hide=stars" />             <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrop01&layout=compact&theme=highcontrast&langs_count=6" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=chrop01&show_icons=true&theme=tokyonight&&count_private=true&hide=stars" /><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrop01&layout=compact&theme=tokyonight&langs_count=6" />
 </a>
 </p>
 
@@ -26,10 +23,10 @@
 
 
 <a href="https://github.com/chrop01/MOVE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chrop01&repo=MOVE&show_icons=true&theme=highcontrast&&count_private=true&hide=stars" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chrop01&repo=MOVE&show_icons=true&theme=tokyonight&&count_private=true&hide=stars" />
 </a>
 <a href="https://github.com/megamxl/WorcalcoholicsGame">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=megamxl&repo=WorcalcoholicsGame&show_icons=true&theme=highcontrast&&count_private=true&hide=stars" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=megamxl&repo=WorcalcoholicsGame&show_icons=true&theme=tokyonight&&count_private=true&hide=stars" />
 </a>
 
 # Skills
