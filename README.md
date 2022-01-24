@@ -1,4 +1,4 @@
-<img align="left" alt="chrop01's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chrop01&show_icons=true&theme=tokyonight" />
+<img align="left" alt="chrop01's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chrop01&show_icons=true&theme=tokyonight&hide_border=true" />
 <br>
 <br>
 <br>
