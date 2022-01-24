@@ -1,5 +1,5 @@
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="chrop01's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chrop01&show_icons=true&theme=tokyonight&hide_border=true"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="chrop01's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrop01&layout=compact&theme=tokyonight&hide_border=true"/></a> |
-| ------------- | ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="chrop01's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chrop01&show_icons=true&theme=tokyonight&hide_border=true"/><img align="center" alt="chrop01's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrop01&layout=compact&theme=tokyonight&hide_border=true"/></a>
+
 
 #### Top Repositories
 
