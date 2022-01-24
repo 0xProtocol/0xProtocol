@@ -10,7 +10,7 @@
 </table>
 <hr>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrop01&row=1" alt="Thejaswin S" /></a> </p>
-<p align="center"><a href="https://at.linkedin.com/in/christoph-oprawill-16328219b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></p>
+<p align="center"><a href="https://at.linkedin.com/in/christoph-oprawill-16328219b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
 
 # Stats
 
