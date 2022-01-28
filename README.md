@@ -19,10 +19,8 @@
 
 # Stats
 
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=chrop01&show_icons=true&theme=tokyonight&&count_private=true&hide=stars" /></p>
-<p align="right">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrop01&layout=compact&theme=tokyonight&langs_count=6" />
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=chrop01&show_icons=true&theme=tokyonight&&count_private=true&hide_border=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrop01&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" />
 </p>
 
 # Top Repositories
