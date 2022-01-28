@@ -1,6 +1,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&vCenter=true&lines=Heyy%2C+I+am+Christoph!!+%F0%9F%91%8B;CSDC+student+in+Vienna!!;I+learn+JAVA,+SOLIDITY+and+HTML!!!)](https://git.io/typing-svg)
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=thejaswin123&label=Profile%20views&color=0e75b6&style=flat" alt="Thejaswin S" /> </p> -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;MERN+stack+Dev+%E2%8C%A8%EF%B8%8F;Open+souce+contributor+%F0%9F%A4%9D;%E2%9D%A4%EF%B8%8F+to+add+value+using+code;He+is+a+problem+solver%F0%9F%A7%A9;Cross+Platform+Dev+%F0%9F%8E%AF;Always+learning+new+things+%E2%9C%85&center=true&width=380&height=45"></a>
+</p>
+
 <hr>
 <table align="center">
   <tr>
