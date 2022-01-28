@@ -24,7 +24,7 @@
 </p>
 
 
-<table align="right" height="160em" width="20%">
+<table height="160em" width="20%">
   <tr>
     <td><a href="https://github.com/search?q=cpp"><img alt="CPP Badge" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
