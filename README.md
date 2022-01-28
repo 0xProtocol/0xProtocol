@@ -11,7 +11,7 @@
 </table>
 <hr>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrop01&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=algolia" alt="chrop01" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=chrop01&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=algolia" alt="chrop01" /></a> </p>
 
 <p align="center"><a href="https://at.linkedin.com/in/christoph-oprawill-16328219b/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" height=20></a>
 <a href="https://github.com/chrop01"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" height=20></a>
@@ -54,7 +54,7 @@
 ![GIF](https://raw.githubusercontent.com/chrop01/chrop01/output/github-contribution-grid-snake.svg)
 
 <p align="left">
-  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com/?user=chrop01&theme=dracula&show_icons=true" /><img height="160em" src="https://github-readme-stats.vercel.app/api?username=chrop01&layout=compact&theme=dracula&count_private=true&include_all_commits=true&show_icons=true" />
+  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com/?user=chrop01&theme=dracula&show_icons=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=chrop01&layout=compact&theme=dracula&count_private=true&include_all_commits=true&show_icons=true" />
 </p>
 
 
