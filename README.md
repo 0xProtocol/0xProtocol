@@ -13,11 +13,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrop01&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=algolia" alt="chrop01" /></a> </p>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://at.linkedin.com/in/christoph-oprawill-16328219b)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/chrop01)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://github.com/chrop01)
-
-
+<p align="center"><a href="https://at.linkedin.com/in/christoph-oprawill-16328219b/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" height=20></a>
+<a href="https://github.com/chrop01"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" height=20></a>
+<a href="http://discordapp.com/users/736174784152600577"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" height=20></a></p>
 
 # Stats
 
