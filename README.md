@@ -23,7 +23,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=chrop01&show_icons=true&theme=react&&count_private=true&hide_border=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrop01&layout=compact&theme=react&langs_count=6&hide_border=true" />
 </p>
 
-<table align="center" height="160em" cellspacing="0" cellpadding="0">
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="http://github-readme-streak-stats.herokuapp.com/?user=chrop01&theme=react&show_icons=true&hide_border=true" height="160em" align="right" alt="chrop01" /></a> </p>
+
+<table align="left" height="160em" cellspacing="0" cellpadding="0">
   <tr>
     <td><a href="https://github.com/search?q=cpp"><img alt="CPP Badge" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
@@ -85,7 +87,7 @@
     <td align="left">🟥🟥🟥</td>
   </tr>
   </table>
-
+  
 
 # Top Repositories
 
