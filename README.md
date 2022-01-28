@@ -56,7 +56,11 @@
 
 ![GIF](https://raw.githubusercontent.com/chrop01/chrop01/output/github-contribution-grid-snake.svg)
 
-<table align="left" width="50%" height="160em">
+
+<table width="100%" height="160em">
+  <tr>
+  <td>
+<table align="left" height="160em">
   <tr>
     <td><a href="https://github.com/search?q=cpp"><img alt="CPP Badge" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
@@ -118,3 +122,8 @@
     <td align="left">🟥🟥🟥</td>
   </tr>
   </table>
+  </td>
+  <td><a href="https://github.com/GaryNLOL/"><img src="https://github-readme-stats.vercel.app/api?username=GaryNLOL&show_icons=true&theme=tokyonight" height="160em" align="right">
+</td>
+  </tr>
+</table>
