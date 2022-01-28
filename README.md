@@ -20,7 +20,7 @@
 # Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=chrop01&show_icons=true&theme=tokyonight&&count_private=true&hide=stars" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrop01&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=chrop01&show_icons=true&theme=tokyonight&&count_private=true&hide=stars" /><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrop01&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
 
 # Top Repositories
