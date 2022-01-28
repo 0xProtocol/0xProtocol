@@ -10,8 +10,11 @@
   </tr>
 </table>
 <hr>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrop01&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=algolia" alt="chrop01" /></a> </p>
-<p align="center"><a href="https://at.linkedin.com/in/christoph-oprawill-16328219b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
+![Trophy](https://github-profile-trophy.vercel.app/?username=chrop01&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://at.linkedin.com/in/christoph-oprawill-16328219b)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/chrop01)
 
 # Stats
 
