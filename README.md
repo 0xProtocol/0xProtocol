@@ -20,8 +20,13 @@
 # Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=chrop01&show_icons=true&theme=tokyonight&&count_private=true&hide_border=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrop01&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=chrop01&show_icons=true&theme=react&&count_private=true&hide_border=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrop01&layout=compact&theme=react&langs_count=6&hide_border=true" />
 </p>
+
+<p align="center">
+  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com/?user=chrop01&theme=react&show_icons=true&hide_border=true" /> <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chrop01&theme=react" />
+</p>
+
 
 # Top Repositories
 
@@ -53,17 +58,8 @@
 
 ![GIF](https://raw.githubusercontent.com/chrop01/chrop01/output/github-contribution-grid-snake.svg)
 
-<p align="left">
-  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com/?user=chrop01&theme=dracula&show_icons=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=chrop01&layout=compact&theme=dracula&count_private=true&include_all_commits=true&show_icons=true" />
-</p>
 
 
-
-<p align="center">
-  <a href="https://www.github.com/chrop01">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrop01&layout=compact&theme=dracula&langs_count=10&hide=jupyter%20notebook,Python,HTML"/>
-  </a>
-</p>
 
 
 <p align="center">
