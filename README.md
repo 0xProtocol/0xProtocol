@@ -87,7 +87,7 @@
   </tr>
   </table>
 
-<p align="left" style=“line-height: 150%“> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="http://github-readme-streak-stats.herokuapp.com/?user=chrop01&theme=react&show_icons=true&hide_border=true" height="160em" width="50%" alt="chrop01" /></a> </p>
+<p align="left" style="line-height: 150%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="http://github-readme-streak-stats.herokuapp.com/?user=chrop01&theme=react&show_icons=true&hide_border=true" height="160em" width="50%" alt="chrop01" /></a> </p>
 
 
 # Top Repositories
