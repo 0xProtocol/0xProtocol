@@ -23,7 +23,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=chrop01&show_icons=true&theme=react&&count_private=true&hide_border=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrop01&layout=compact&theme=react&langs_count=6&hide_border=true" />
 </p>
 
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="http://github-readme-streak-stats.herokuapp.com/?user=chrop01&theme=react&show_icons=true&hide_border=true" height="160em" width="40%" align="right" alt="chrop01" /></a> </p>
 
 <table height="160em" width="20%">
   <tr>
@@ -88,6 +87,7 @@
   </tr>
   </table>
 
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="http://github-readme-streak-stats.herokuapp.com/?user=chrop01&theme=react&show_icons=true&hide_border=true" height="160em" width="40%" align="right" alt="chrop01" /></a> </p>
 
 # Top Repositories
 <a href="https://github.com/chrop01/MOVE">
