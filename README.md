@@ -52,3 +52,30 @@
 ![GitHub metrics](https://metrics.lecoq.io/chrop01)  
 
 ![GIF](https://raw.githubusercontent.com/chrop01/chrop01/output/github-contribution-grid-snake.svg)
+
+<p align="left">
+  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com/?user=chrop01&theme=dracula&show_icons=true" /><img height="160em" src="https://github-readme-stats.vercel.app/api?username=chrop01&layout=compact&theme=dracula&count_private=true&include_all_commits=true&show_icons=true" />
+</p>
+
+
+
+<p align="center">
+  <a href="https://www.github.com/chrop01">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrop01&layout=compact&theme=dracula&langs_count=10&hide=jupyter%20notebook,Python,HTML"/>
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://www.github.com/chrop01">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrop01&theme=dracula"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.github.com/chrop01">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chrop01&theme=dracula"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chrop01&theme=dracula"/>
+  </a>
+</p>
+
