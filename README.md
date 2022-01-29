@@ -24,10 +24,8 @@
 </p>
 
 <p align="center">
-  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com/?user=chrop01&theme=react&hide_border=true" /> <img height="160em" width="340em" src="https://github-readme-stats.vercel.app/api/wakatime?username=chrop&layout=compact&theme=react&hide_border=true" />
+  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com/?user=chrop01&theme=react&hide_border=true" /> <img height="160em" width="340em" src="https://github-readme-stats.vercel.app/api/wakatime?username=chrop&theme=react&hide_border=true" />
 </p>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chrop)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💎 Top Repositories
 <p align="center">
