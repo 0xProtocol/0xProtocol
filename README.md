@@ -23,11 +23,10 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=chrop01&show_icons=true&theme=react&&count_private=true&hide_border=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrop01&layout=compact&theme=react&langs_count=6&hide_border=true" />
 </p>
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+<p align="center">
+  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com/?user=chrop01&theme=react&hide_border=true" /> <img height="160em" width="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=chrop&theme=react&hide_border=true" />
+  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com/?user=chrop01&theme=react&hide_border=true" /> <img height="160em" width="340em" src="https://github-readme-stats.vercel.app/api/wakatime?username=chrop&theme=react&hide_border=true" />
+</p>
 
 ## 💎 Top Repositories
 <p align="center">
