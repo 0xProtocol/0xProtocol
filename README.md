@@ -72,13 +72,17 @@
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
      <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&logo=intellij-idea&logoColor=white"></a>
+        <a href="#"><img alt="Git" src="https://img.shields.io/badge/phpstorm-143?&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"></a>
+          <a href="#"><img alt="Git" src="https://img.shields.io/badge/pycharm-143?&logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+     <a href="#"><img alt="SVN" src="https://img.shields.io/twitter/url?color=black&label=SVN&logo=subversion&url=https%3A%2F%2Fsimpleicons.org%2F%3Fq%3Dsubvers" height="20"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    
 </p>
 
 
@@ -98,13 +102,4 @@
 
 ![GIF](https://raw.githubusercontent.com/chrop01/chrop01/output/github-contribution-grid-snake.svg)
 
-
-
-### Languages,Frameworks & Tools
-
- 
- 
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/> 
   
-  
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <img alt="SVN" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/TortoiseSVN_logo.svg" height=23/>
