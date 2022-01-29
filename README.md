@@ -97,11 +97,8 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=chrop01&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
-
-<div align="center">
-    
+  
 <!-- ![GitHub metrics](https://metrics.lecoq.io/chrop01)-->
-
 ![GIF](https://raw.githubusercontent.com/chrop01/chrop01/output/github-contribution-grid-snake.svg)
 
   
