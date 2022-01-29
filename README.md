@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-<p align="center">
-  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com/?user=chrop01&theme=react&hide_border=true" /> <img height="160em" width="340em" src="https://github-readme-stats.vercel.app/api/wakatime?username=chrop&theme=react&hide_border=true" />
-</p>
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ## 💎 Top Repositories
