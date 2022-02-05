@@ -27,7 +27,7 @@
   <img height="160em" width="395em" src="http://github-readme-streak-stats.herokuapp.com/?user=chrop01&theme=react&hide_border=true" /> <img height="160em" width="325em" src="https://github-readme-stats.vercel.app/api/wakatime?username=chrop&theme=react&hide_border=truet&langs_count=10" />
 </p>
 
-## 💎  Top Repositories
+## 💎 Top Repositories
 <p align="center">
   <a href="https://github.com/chrop01/MOVE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chrop01&repo=MOVE&show_icons=true&theme=react&&count_private=true&hide=stars&hide_border=true" /> <a href="https://github.com/megamxl/WorcalcoholicsGame"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=megamxl&repo=WorcalcoholicsGame&show_icons=true&theme=react&&count_private=true&hide=stars&hide_border=true" />
 </p>
