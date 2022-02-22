@@ -10,7 +10,7 @@
   </tr>
 </table>
 <hr>
-
+ 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrop01&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=algolia" alt="chrop01" /></a> </p>
 
 <p align="center"><a href="https://at.linkedin.com/in/christoph-oprawill-16328219b/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" height=20></a>
