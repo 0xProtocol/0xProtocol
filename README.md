@@ -3,7 +3,7 @@
 </p> 
        
 <hr> 
-<table align="center">
+<table align="center"> 
   <tr>
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/chrop01/count.svg" alt="vistor count" height="30" /></td>
