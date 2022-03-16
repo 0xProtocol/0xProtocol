@@ -25,7 +25,7 @@
 
 <p align="center">
   <img height="160em" width="395em" src="http://github-readme-streak-stats.herokuapp.com/?user=chrop01&theme=react&hide_border=true" /> <img height="160em" width="325em" src="https://github-readme-stats.vercel.app/api/wakatime?username=chrop&theme=react&hide_border=truet&langs_count=10" />
-</p>
+</p>  
 
 ## 💎 Top Repositories
 <p align="center">
