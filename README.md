@@ -9,7 +9,7 @@
     <td><img src="https://profile-counter.glitch.me/chrop01/count.svg" alt="vistor count" height="30" /></td>
   </tr>
 </table>  
-<hr>   
+<hr>     
         
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrop01&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=algolia" alt="chrop01" /></a> </p>
 
