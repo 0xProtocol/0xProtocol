@@ -24,7 +24,7 @@
 </p>  
 
 <p align="center">
-  <img height="255em" width="395em" src="http://github-readme-streak-stats.herokuapp.com/?user=chrop01&theme=react&hide_border=true" />
+  <img height="50em" width="395em" src="http://github-readme-streak-stats.herokuapp.com/?user=chrop01&theme=react&hide_border=true" />
 </p>  
       
 ## 💎 Top Repositories
