@@ -21,7 +21,7 @@
 
 <p align="center">
   <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=chrop01&show_icons=true&theme=react&&count_private=true&hide_border=true" /> <img height="160em" width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrop01&layout=compact&theme=react&langs_count=6&hide_border=true" />
-</p>  
+</p>    
 
 <p align="center">
   <img height="160em" width="395em" src="http://github-readme-streak-stats.herokuapp.com/?user=chrop01&theme=react&hide_border=true" />
