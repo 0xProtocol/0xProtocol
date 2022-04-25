@@ -17,7 +17,7 @@
 <a href="https://github.com/chrop01"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" height=20></a>
 <a href="http://discordapp.com/users/736174784152600577"> <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" height=20></a></p> 
  
-## 🎓 Stats
+## 🎓 Stats   
 
 <p align="center">
   <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=chrop01&show_icons=true&theme=react&&count_private=true&hide_border=true" /> <img height="160em" width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrop01&layout=compact&theme=react&langs_count=6&hide_border=true" />
