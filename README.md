@@ -30,7 +30,8 @@
 ## 💎 Top Repositories
 <p align="center">
   <a href="https://github.com/chrop01/MOVE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chrop01&repo=MOVE&show_icons=true&theme=react&&count_private=true&hide=stars&hide_border=true" /> 
- <a href="https://github.com/chrop01/weatherwetten.nuxt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chrop01&repo=weatherwetten.nuxt&show_icons=true&theme=react&&count_private=true&hide=stars&hide_border=true" />    
+ <a href="https://github.com/chrop01/weatherwetten.nuxt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chrop01&repo=weatherwetten.nuxt&show_icons=true&theme=react&&count_private=true&hide=stars&hide_border=true" /> 
+   <a href="https://github.com/timmy-2003/Programming-2-Course-Repository-CSDC-FH-Campus-Wien-G3.2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=timmy-2003&repo=Programming-2-Course-Repository-CSDC-FH-Campus-Wien-G3.2&show_icons=true&theme=react&&count_private=true&hide=stars&hide_border=true" /> 
     <a href="https://github.com/megamxl/WorcalcoholicsGame"> 
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=megamxl&repo=WorcalcoholicsGame&show_icons=true&theme=react&&count_private=true&hide=stars&hide_border=true" />
 </p>
