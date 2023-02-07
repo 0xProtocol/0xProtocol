@@ -100,6 +100,7 @@
 <h2 align='center'><i><a href="https://github.com/0xProtocol/github-readme-activity-graph">Activity Graph</i></h2>
 <p align="center">
 <a href="https://github.com/0xProtocol/github-readme-activity-graph">
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
  <img src="https://activity-graph.herokuapp.com/graph?username=0xProtocol&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
