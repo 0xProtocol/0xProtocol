@@ -100,7 +100,7 @@
 <h2 align='center'><i><a href="https://github.com/0xProtocol/github-readme-activity-graph">Activity Graph</i></h2>
 <p align="center">
 <a href="https://github.com/0xProtocol/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=chrop01&theme=react-dark&area=true&hide_border=true" width="100%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=0xProtocol&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
   
