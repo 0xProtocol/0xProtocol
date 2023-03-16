@@ -81,7 +81,7 @@
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Adobe Photoshop" src="![Adobe Photoshop]https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white"></a>
+    <a href="#"><img alt="Adobe Photoshop" src="![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white)"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
      <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white"></a>
